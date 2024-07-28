@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TexicaReactApp/static/css/main.69337d23.css",
+    "main.js": "/TexicaReactApp/static/js/main.58bb339e.js",
+    "static/js/453.220b0e98.chunk.js": "/TexicaReactApp/static/js/453.220b0e98.chunk.js",
+    "index.html": "/TexicaReactApp/index.html",
+    "main.69337d23.css.map": "/TexicaReactApp/static/css/main.69337d23.css.map",
+    "main.58bb339e.js.map": "/TexicaReactApp/static/js/main.58bb339e.js.map",
+    "453.220b0e98.chunk.js.map": "/TexicaReactApp/static/js/453.220b0e98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69337d23.css",
+    "static/js/main.58bb339e.js"
+  ]
+}
