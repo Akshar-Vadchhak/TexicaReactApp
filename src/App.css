@@ -1,0 +1,48 @@
+.cantainatr{
+    text-align: center;
+    height: 702px;
+    padding: 20px;
+}
+
+h1{
+    color: rgb(1, 88, 164);
+}
+
+.textBox{
+    width: 400px;
+    padding: 20px;
+    color: rgb(1, 88, 164);
+    font-weight: 600;
+    font-size: 15px;
+    background-color: rgb(241, 241, 241);
+    border: 0;
+    border-radius: 12px;
+    overflow:visible;
+}
+
+@media (min-width : 200px) and (max-width : 1200px) {
+    .textBox{
+        width: 300px;
+    }
+    
+  }
+
+.textBox:hover{
+    background-color: rgb(232, 232, 232);
+}
+
+.btn{
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    background-color: rgb(1, 88, 164);  
+    padding: 5px 10px 5px 10px ;
+    border: 0;  
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: rgb(1, 77, 144);   
+
+}
